@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
 title: My website
-author: Ferran Aran
+author: Georgina Sans
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -36,7 +36,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
+  email: "georgina"
   facebook: ferranad
   github: ferranad
   twitter: ferranad
@@ -111,7 +111,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#FFF8C5"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
